@@ -1,0 +1,2 @@
+# NMF-TopicModeling
+This is a repository storing a notebook file containing the NMF Topic Modeling project done for Project GA026A-2022 under University of Malaya, Malaysia. This template was referred from Obianuju Okafor's Medium article titled 'Automatic Topic Classification of Research Papers using the NLP Topic Model NMF'.
